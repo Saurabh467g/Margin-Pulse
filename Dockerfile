@@ -23,7 +23,7 @@ ENV PORT=3000
 
 # Copy only production dependencies and built assets
 COPY package*.json ./
-RUN npm ci --only=production
+RUN npm install --only=production
 
 COPY --from=builder /app/dist ./dist
 
