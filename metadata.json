@@ -1,0 +1,7 @@
+{
+  "name": "MarginPulse",
+  "description": "Hospital Profit Leakage Intelligence Platform for XYZ Hospital, surfacing, quantifying, and recovering revenue leakage across 11 modules and 41 opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
